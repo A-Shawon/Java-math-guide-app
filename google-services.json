@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823925525911",
+    "project_id": "allguidebd1-12",
+    "storage_bucket": "allguidebd1-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823925525911:android:d950ddbb71dcc806cd88d2",
+        "android_client_info": {
+          "package_name": "com.guidebookbd.allguide1_12bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823925525911-q36r43mgnpimveq7m6kqkb6lqpa67pn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlI3wT2wCb4BxLhFdq7rIhcDJyuIRR64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823925525911-q36r43mgnpimveq7m6kqkb6lqpa67pn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
